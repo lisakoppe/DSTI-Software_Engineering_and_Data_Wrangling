@@ -1,0 +1,12 @@
+https://learning.oreilly.com/library/view/python-for-data/9781491957653/
+https://stackoverflow.com/questions/11392709/how-to-catch-specific-pyodbc-error-message
+https://github.com/mkleehammer/pyodbc/wiki
+https://stackoverflow.com/questions/12332975/installing-python-module-within-code
+https://stackoverflow.com/questions/49727457/automatically-detect-odbc-driver-using-pyodbc-in-python-3
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.vstack.html
+https://www.programiz.com/python-programming/methods/built-in/max
+https://stackoverflow.com/questions/39748916/find-maximum-value-and-index-in-a-python-list
+https://stackoverflow.com/questions/9282967/how-to-open-a-file-using-the-open-with-statement
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html?highlight=iloc#pandas.DataFrame.iloc
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.equals.html
